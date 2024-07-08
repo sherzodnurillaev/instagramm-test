@@ -1,0 +1,186 @@
+{
+    "stories": [
+            {
+              "id": 1,
+              "userName": "Billie Eilish",
+              "images": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e",
+              "checked": false
+            },
+            {
+              "id": 2,
+              "userName": "scott adkins",
+              "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtiArXY17gysMoC09oqASvUbZxwXkCXVrb9jtXXIsa7Odb40knITWNDlCDprJ6vsezV2k&usqp=CAU",
+              "checked": false
+            },
+            {
+              "id": 3,
+              "userName": "Elisa Jhin",
+              "images": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp",
+              "checked": false
+            },
+            {
+              "id": 4,
+              "userName": "Holly Hendrix",
+              "images": "https://pbs.twimg.com/profile_images/1247844877720678401/Kjuy_DYI_400x400.jpg",
+              "checked": false
+            },
+            {
+              "id": 5,
+              "userName": "Jim Carrey",
+              "images": "https://hips.hearstapps.com/hmg-prod/images/jim-carrey-9542079-1-402.jpg",
+              "checked": false
+            },
+            {
+              "id": 6,
+              "userName": "Emma",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 7,
+              "userName": "Michael",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 8,
+              "userName": "Olivia",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 9,
+              "userName": "William",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 10,
+              "userName": "Ava",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 11,
+              "userName": "James",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 12,
+              "userName": "Isabella",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 13,
+              "userName": "Isabella",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 14,
+              "userName": "Isabella",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 15,
+              "userName": "Isabella",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 16,
+              "userName": "Isabella",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 17,
+              "userName": "Isabella",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            },
+            {
+              "id": 18,
+              "userName": "Isabella",
+              "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
+              "checked": false
+            }
+          
+    ],
+
+    "posts": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "comment": "nickname Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis...",
+          "postImages": "https://cdn.trinixy.ru/pics6/20230801/240813_1_trinixy_ru.jpg",
+          "country": "New York"
+        },
+        {
+          "id": 2,
+          "name": "Alice Smith",
+          "comment": "another_nickname Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis...",
+          "postImages": "https://cdn.trinixy.ru/pics6/20230801/240813_1_trinixy_ru.jpg",
+          "country": "Los Angeles"
+        },
+        {
+          "id": 3,
+          "name": "Michael Johnson",
+          "comment": "user123 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam...",
+          "postImages": "https://example.com/image3.jpg",
+          "country": "Chicago"
+        },
+        {
+          "id": 4,
+          "name": "Emily Brown",
+          "comment": "johndoe Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam...",
+          "postImages": "https://example.com/image4.jpg",
+          "country": "San Francisco"
+        },
+        {
+          "id": 5,
+          "name": "David Wilson",
+          "comment": "alice_123 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident...",
+          "postImages": "https://example.com/image5.jpg",
+          "country": "Miami"
+        },
+        {
+          "id": 6,
+          "name": "Sarah Clark",
+          "comment": "sam_89 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+          "postImages": "https://example.com/image6.jpg",
+          "country": "Seattle"
+        },
+        {
+          "id": 7,
+          "name": "Kevin Davis",
+          "comment": "janedoe Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur...",
+          "postImages": "https://example.com/image7.jpg",
+          "country": "Austin"
+        },
+        {
+          "id": 8,
+          "name": "Olivia Martinez",
+          "comment": "user456 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam...",
+          "postImages": "https://example.com/image8.jpg",
+          "country": "Denver"
+        },
+        {
+          "id": 9,
+          "name": "Daniel Thompson",
+          "comment": "testuser Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat...",
+          "postImages": "https://example.com/image9.jpg",
+          "country": "Portland"
+        },
+        {
+          "id": 10,
+          "name": "Sophia Lee",
+          "comment": "newuser1234 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...",
+          "postImages": "https://example.com/image10.jpg",
+          "country": "Phoenix"
+        }
+      ]    
+}
