@@ -1,3 +1,7 @@
+import { header } from "../components/header.js"
+
+header()
+
 let url = "http://localhost:3001"
 
 let stor = document.querySelector('.stories')
@@ -38,9 +42,16 @@ function reload(res) {
             stor.append(box)
             box.append(img, name)  
 
+            clos.onclick = () => {
+                dialog.close()
+            }
+
             img.onclick = () => {
-                img.style.border = "0"
                 dialog.showModal()
+                axios.patch(url + "/stories" + "/" + item.id, { checked: true })
+                .then(res => console.log(res.data))
+                .catch(error => console.error(error))
+                
                 topImg.setAttribute('src', item.images)
                 topImg.classList.add('topimg')
                 topTxt.innerText = item.userName
@@ -48,12 +59,8 @@ function reload(res) {
 
                 setTimeout(() => {
                     dialog.close()
-                }, 3000)
+                }, 15000)
 
-            }
-
-            clos.onclick = () => {
-                dialog.close()
             }
     });
 }
