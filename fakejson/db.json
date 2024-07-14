@@ -1,238 +1,174 @@
 {
   "stories": [
     {
-      "id": "1",
+      "id": "abc1",
       "userName": "Billie Eilish",
       "images": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e",
-      "checked": false
+      "checked": true
     },
     {
-      "id": "2",
+      "id": "abc2",
       "userName": "scott adkins",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtiArXY17gysMoC09oqASvUbZxwXkCXVrb9jtXXIsa7Odb40knITWNDlCDprJ6vsezV2k&usqp=CAU",
-      "checked": false
+      "checked": true
     },
     {
-      "id": "3",
+      "id": "abc3",
       "userName": "Elisa Jhin",
       "images": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp",
-      "checked": false
+      "checked": true
     },
     {
-      "id": "4",
+      "id": "abc4",
       "userName": "Holly Hendrix",
       "images": "https://pbs.twimg.com/profile_images/1247844877720678401/Kjuy_DYI_400x400.jpg",
-      "checked": false
+      "checked": true
     },
     {
-      "id": "5",
+      "id": "abc5",
       "userName": "Jim Carrey",
       "images": "https://hips.hearstapps.com/hmg-prod/images/jim-carrey-9542079-1-402.jpg",
-      "checked": false
-    },
-    {
-      "id": "6",
-      "userName": "Emma",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "7",
-      "userName": "Michael",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "8",
-      "userName": "Olivia",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "9",
-      "userName": "William",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "10",
-      "userName": "Ava",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "11",
-      "userName": "James",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "12",
-      "userName": "Isabella",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "13",
-      "userName": "Isabella",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "14",
-      "userName": "Isabella",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "15",
-      "userName": "Isabella",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "16",
-      "userName": "Isabella",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "17",
-      "userName": "Isabella",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
-    },
-    {
-      "id": "18",
-      "userName": "Isabella",
-      "images": "https://kuban24.tv/wp-content/uploads/2019/08/1111111.jpg",
-      "checked": false
+      "checked": true
     }
   ],
   "posts": [
     {
-      "id": "1",
-      "name": "John Doe",
+      "id": "abc1",
+      "name": "Billie Eilish",
       "comment": "nickname Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis...",
-      "postImages": "https://cdn.trinixy.ru/pics6/20230801/240813_1_trinixy_ru.jpg",
-      "country": "New York"
+      "postImages": "https://pyxis.nymag.com/v1/imgs/a5f/165/cf12f71bac777059733b1b9fdb498894d5-billie-eilish-new-album.1x.rsquare.w1400.jpg",
+      "country": "New York",
+      "avatar": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e"
     },
     {
-      "id": "2",
-      "name": "Alice Smith",
+      "id": "abc2",
+      "name": "scott adkins",
       "comment": "another_nickname Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis...",
-      "postImages": "https://cdn.trinixy.ru/pics6/20230801/240813_1_trinixy_ru.jpg",
-      "country": "Los Angeles"
+      "postImages": "https://i2-prod.birminghammail.co.uk/incoming/article14544032.ece/ALTERNATES/s1200c/0_Scott-Adkins-more-typical-serious-pose.jpg",
+      "country": "Los Angeles",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtiArXY17gysMoC09oqASvUbZxwXkCXVrb9jtXXIsa7Odb40knITWNDlCDprJ6vsezV2k&usqp=CAU"
     },
     {
-      "id": "3",
-      "name": "Michael Johnson",
+      "id": "abc3",
+      "name": "Elisa Jhin",
       "comment": "user123 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam...",
-      "postImages": "https://example.com/image3.jpg",
-      "country": "Chicago"
+      "postImages": "https://nacion.ru/assets/i/ai/4/7/9/i/3300709.jpg",
+      "country": "Chicago",
+      "avatar": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
     },
     {
-      "id": "4",
-      "name": "Emily Brown",
+      "id": "abc4",
+      "name": "Holly Hendrix",
       "comment": "johndoe Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam...",
-      "postImages": "https://example.com/image4.jpg",
-      "country": "San Francisco"
+      "postImages": "https://i.pinimg.com/474x/17/33/77/17337792c7b9e1cec5f79ddc3b299517.jpg",
+      "country": "San Francisco",
+      "avatar": "https://pbs.twimg.com/profile_images/1247844877720678401/Kjuy_DYI_400x400.jpg"
     },
     {
-      "id": "5",
-      "name": "David Wilson",
+      "id": "abc5",
+      "name": "Jim Carrey",
       "comment": "alice_123 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident...",
-      "postImages": "https://example.com/image5.jpg",
-      "country": "Miami"
-    },
-    {
-      "id": "6",
-      "name": "Sarah Clark",
-      "comment": "sam_89 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
-      "postImages": "https://example.com/image6.jpg",
-      "country": "Seattle"
-    },
-    {
-      "id": "7",
-      "name": "Kevin Davis",
-      "comment": "janedoe Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur...",
-      "postImages": "https://example.com/image7.jpg",
-      "country": "Austin"
-    },
-    {
-      "id": "8",
-      "name": "Olivia Martinez",
-      "comment": "user456 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam...",
-      "postImages": "https://example.com/image8.jpg",
-      "country": "Denver"
-    },
-    {
-      "id": "9",
-      "name": "Daniel Thompson",
-      "comment": "testuser Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat...",
-      "postImages": "https://example.com/image9.jpg",
-      "country": "Portland"
-    },
-    {
-      "id": "10",
-      "name": "Sophia Lee",
-      "comment": "newuser1234 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...",
-      "postImages": "https://example.com/image10.jpg",
-      "country": "Phoenix"
+      "postImages": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/27/14/jim-carrey-true-crimes.jpg?width=1200&height=1200&fit=crop",
+      "country": "Miami",
+      "avatar": "https://hips.hearstapps.com/hmg-prod/images/jim-carrey-9542079-1-402.jpg"
     }
   ],
   "profile": [
     {
-      "id": "1",
+      "id": "abc1",
       "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
     },
     {
-      "id": "2",
+      "id": "abc2",
       "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
     },
     {
-      "id": "3",
+      "id": "abc3",
       "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
     },
     {
-      "id": "4",
+      "id": "abc4",
       "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
     },
     {
-      "id": "5",
+      "id": "abc5",
       "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
+    }
+  ],
+  "users": [
+    {
+      "id": "abc1",
+      "userName": "Billie Eilish",
+      "avatarUrl": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e",
+      "followers": "100",
+      "followings": "200",
+      "userId": "abc1",
+      "posts": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_3%29.jpg/640px-BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_3%29.jpg",
+        "https://pyxis.nymag.com/v1/imgs/a5f/165/cf12f71bac777059733b1b9fdb498894d5-billie-eilish-new-album.1x.rsquare.w1400.jpg",
+        "https://media.newyorker.com/photos/6647c2dc901cbb54bc7c488f/master/pass/r44332.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/78/BillieEilishO2160622_%2811_of_45%29_%2852152972296%29_%28cropped_2%29.jpg"
+      ]
     },
     {
-      "id": "6",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
+      "id": "abc2",
+      "userName": "scott adkins",
+      "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtiArXY17gysMoC09oqASvUbZxwXkCXVrb9jtXXIsa7Odb40knITWNDlCDprJ6vsezV2k&usqp=CAU",
+      "followers": "888",
+      "followings": "345",
+      "userId": "abc2",
+      "posts": [
+        "https://imagenes.elpais.com/resizer/v2/OAONDVDEXFCPXHHTQOMPFZP72M.jpg?auth=7b624f175bb4ade58b1718313b82a98e909599c79c518fba96bc52425189f7a4&width=414",
+        "https://c8.alamy.com/comp/DJD0TG/scott-adkins-the-expendables-2-uk-premiere-held-at-the-empire-leicester-DJD0TG.jpg",
+        "https://static.tvtropes.org/pmwiki/pub/images/img_1187.JPG",
+        "https://www.trainmag.com/wp-content/uploads/2019/07/scottadkins-body2.jpg",
+        "https://media.gettyimages.com/id/1471730622/photo/london-england-scott-adkins-arrives-at-the-john-wick-chapter-4-uk-gala-screening-at-cineworld.jpg?s=612x612&w=gi&k=20&c=PeUb4iH_PxLK5R_vpy_pUZyT0oygG9KJv5YiZr3M-dE=",
+        "https://i2-prod.birminghammail.co.uk/incoming/article14544032.ece/ALTERNATES/s1200c/0_Scott-Adkins-more-typical-serious-pose.jpg"
+      ]
     },
     {
-      "id": "7",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
+      "id": "abc3",
+      "userName": "Elisa Jhin",
+      "avatarUrl": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp",
+      "followers": "5432",
+      "followings": "1234",
+      "userId": "abc3",
+      "posts": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/aacb3811-40fd-430e-b57d-d45aa62974f3/576x",
+        "https://nacion.ru/assets/i/ai/4/7/9/i/3300709.jpg",
+        "https://fotobase.co/files/img/photo/elza-dzhin/elza-dzhin-3.webp"
+      ]
     },
     {
-      "id": "8",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
+      "id": "abc4",
+      "userName": "Holly Hendrix",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1247844877720678401/Kjuy_DYI_400x400.jpg",
+      "followers": "543",
+      "followings": "876",
+      "userId": "abc4",
+      "posts": [
+        "https://i.pinimg.com/474x/17/33/77/17337792c7b9e1cec5f79ddc3b299517.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7s8QTBEzwqOnpHIvjJR9tHbTbGG_IAk_7g&s",
+        "https://image.tmdb.org/t/p/original/1Gm8Oq3J0JCnycp0yibl4wnOe4y.jpg",
+        "https://media.gettyimages.com/id/632382410/photo/las-vegas-nv-adult-film-actress-holly-hendrix-accepts-the-award-for-best-new-starlet-during.jpg?s=612x612&w=gi&k=20&c=9JloZWos1VGi0ZYOmZerqZg-CmWARhCkDX9MO7rLEq8="
+      ]
     },
     {
-      "id": "9",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
-    },
-    {
-      "id": "10",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
-    },
-    {
-      "id": "11",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
-    },
-    {
-      "id": "12",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
-    },
-    {
-      "id": "13",
-      "photo": "https://cojo.ru/wp-content/uploads/2022/11/elza-jin-1.webp"
+      "id": "abc5",
+      "userName": "Jim Carrey",
+      "avatarUrl": "https://hips.hearstapps.com/hmg-prod/images/jim-carrey-9542079-1-402.jpg",
+      "followers": "900",
+      "followings": "21",
+      "userId": "abc5",
+      "posts": [
+        "https://d3d0lqu00lnqvz.cloudfront.net/media/media/111de525-816e-4162-a0ea-fa4b1b12f7ba.jpg",
+        "https://www.usatoday.com/gcdn/-mm-/70af46d3173347d8c011889fbe87cb687ba13085/c=0-489-3634-4123/local/-/media/2017/06/01/USATODAY/USATODAY/636319340395609789-Jim-Carrey-beard-1.jpg",
+        "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-174854-MSDACVE_EC017_H.jpg",
+        "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/27/14/jim-carrey-true-crimes.jpg?width=1200&height=1200&fit=crop",
+        "https://static.tvtropes.org/pmwiki/pub/images/jim_carrey_4.jpg",
+        "https://i.cbc.ca/1.4877006.1540415103!/fileImage/httpImage/jim-carrey-is-seen-in-promotional-shot-for-cbc-s-introducing-janet.jpg",
+        "https://imagenes.elpais.com/resizer/v2/L4DAJEH6TBBHZLEUSZLGOF5ZNQ.jpg?auth=3018e64d78875ab8963ab5d3df6c57d532cfb341aba815977e40ef62937a7f0c&width=980&height=980&smart=true"
+      ]
     }
   ]
 }

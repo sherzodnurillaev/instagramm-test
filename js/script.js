@@ -4,6 +4,8 @@ header()
 
 let url = "http://localhost:3001"
 
+let next = document.querySelector('.header_left')
+
 let stor = document.querySelector('.stories')
 let post = document.querySelector('.posts')
 let dialog = document.querySelector('dialog')
@@ -60,8 +62,8 @@ function reload(res) {
                 setTimeout(() => {
                     dialog.close()
                 }, 15000)
-
             }
+
     });
 }
 
@@ -125,7 +127,7 @@ function postSection(json) {
 
 
 
-        headerImg.setAttribute('src', "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e")
+        headerImg.setAttribute('src', elem.avatar)
         boxTophTwo.innerText = elem.name
         boxTopP.innerText = elem.country
         headerRightImg.setAttribute('src', './img/postsImg/point.png')
@@ -150,5 +152,11 @@ function postSection(json) {
         boxTopRight.append(boxRightImg, boxRightimg)
         favorit.append(favoritSpan, favoritP)
         commit.append(commitSpan, commitP)
+
+        headerLeft.onclick = () => {
+            
+            localStorage.setItem("userId", elem.id)
+            window.location.href = "http://127.0.0.1:5500/frontend/profile.html"
+        }
     })
 }

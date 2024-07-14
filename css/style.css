@@ -8,6 +8,10 @@ img {
     width: 100%;
 }
 
+body {
+    background-color: #eaeaea;
+}
+
 .container {
     width: 1200px;
     margin: 0 auto;
@@ -19,7 +23,7 @@ header {
     justify-content: space-between;
     padding: 0 20px;
     height: 50px;
-    /* background-color: gray; */
+    background-color: #fff;
     input {
         padding: 5px 20px;
     }
@@ -31,6 +35,11 @@ header {
     gap: 20px;
 }
 
+section {
+    display: flex;
+    justify-content: center;
+}
+
 .stories {
     display: flex;
     gap: 20px;
@@ -38,15 +47,22 @@ header {
     height: 150px;
     border: 1px solid #b6b5b5;
     overflow-y: scroll;
+    border-radius: 4px;
     padding: 20px;
+    background-color: #fff;
+    margin-top: 32px;
+}
+
+.stories::-webkit-scrollbar {
+    display: none; /* Скрыть полосу прокрутки */
 }
 
 .scrollImg {
     width: 100px;
     height: 100px;
     border-radius: 50px;
-    /* border: 3px solid #f90000; */
     padding: 3px;
+    cursor: pointer;
 }
 .acctive {
     border: 3px solid #f90000;
@@ -54,12 +70,6 @@ header {
 .scrollBox {
     text-align: center;
 }
-
-/* .box_post {
-    width: 300px;
-    height: 100px;
-    background-color: #fff;
-} */
 
 dialog {
     width: 600px;
@@ -108,7 +118,9 @@ dialog {
     width: fit-content;
     /* background-color: black; */
     border: 1px solid rgb(209, 209, 209);
+    border-radius: 4px;
     margin-bottom: 50px;
+    background-color: #fff;
 }
 
 .header_left {
@@ -122,6 +134,7 @@ dialog {
     p {
         font-size: 16px;
     }
+    cursor: pointer;
 }
 
 .boxtop_header {
@@ -169,7 +182,9 @@ dialog {
 
 .headerImg {
     width: 70px; 
+    height: 70px; 
     border-radius: 50px;
+    overflow: hidden;
 }
 
 .headerRightImg {

@@ -13,13 +13,17 @@ img {
     margin: 0 auto;
 }
 
+body {
+    background-color: #eaeaea;
+}
+
 header {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 20px;
     height: 50px;
-    /* background-color: gray; */
+    background-color: #fff;
     input {
         padding: 5px 20px;
     }
@@ -87,6 +91,26 @@ header {
                 gap: 32px;
                 margin-top: 24px;
                 .txt {
+                    font-family: Roboto;
+                    font-size: 16px;
+                    font-weight: 500;
+                    line-height: 24px;
+                    text-align: left;
+                        span {
+                            font-weight: 700;
+                        }
+                }
+                .followers {
+                    font-family: Roboto;
+                    font-size: 16px;
+                    font-weight: 500;
+                    line-height: 24px;
+                    text-align: left;
+                        span {
+                            font-weight: 700;
+                        }
+                }
+                .following {
                     font-family: Roboto;
                     font-size: 16px;
                     font-weight: 500;
